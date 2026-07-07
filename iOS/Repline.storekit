@@ -1,0 +1,40 @@
+{
+  "identifier" : "repline",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {},
+  "subscriptionGroups" : [
+    {
+      "id" : "repline_group",
+      "localizations" : [],
+      "name" : "Repline Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "3.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "repline_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Repline Pro unlocks unlimited sets and pro features.",
+              "displayName" : "Repline Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "repline_pro_monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Repline Pro",
+          "subscriptionGroupID" : "repline_group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
